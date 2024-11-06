@@ -30,7 +30,7 @@ const Recommended = ({categoryId}) => {
         <div key={index} className="side-video-list"> 
             <img src={thumbnail1} alt="" />
             <div className="vid-info">
-                <h4>Best channel that help you to be a web developer</h4> <p>WebDotDev</p>
+                <h4>Good channel that help you to be a web developer</h4> <p>WebDotDev</p>
                 <p>199K Vigews</p>
             </div>
         </div>
